@@ -1,0 +1,3 @@
+shutdown/i /c
+PAUSE
+
